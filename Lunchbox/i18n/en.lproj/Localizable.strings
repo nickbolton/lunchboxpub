@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  Lunchbox
+
+  Created by Nick Bolton on 3/31/19.
+  Copyright © 2019 Pixelbleed LLC. All rights reserved.
+*/
+
+"document.file.unrecognised.format" = "File is an unrecognised format";
+"document.file.unreadable" = "File could not be read";
+"document.file.unsaveable" = "File could not be saved";
+
+"alert.view.dismiss.title" = "OK";
+"alert.view.retry.title" = "Retry";
+"alert.view.no.internet.message" = "No Internet Connection\nPlease connect.";
+"alert.view.retry.connection.message" = "Unable to process request\nPlease retry.";
+"alert.view.generic.connection.message" = "Unable to process request\nTry again later.";
+
+"blocks.panel.title" = "Blocks";
+"blocks.panel.simple.section.title" = "Simple";
+"blocks.panel.data.section.title" = "Data & Events";
+
+"block.text.type.default.text.label" = "Untitled";
+"block.text.type.default.text.body" = "Untitled";
+"block.text.type.default.text.labelBody" = "Untitled\n\nBody Text";
+
+"block.type.title.spacer" = "";
+"block.type.description.spacer" = "";
+"block.type.title.label" = "Label";
+"block.type.description.label" = "Text label only.";
+"block.type.title.body" = "Body Text";
+"block.type.description.body" = "Body text only.";
+"block.type.title.labelBody" = "Label + Body Text";
+"block.type.description.labelBody" = "Body text";
+"block.type.title.divider" = "Divider";
+"block.type.description.divider" = "Single content divider.";
+"block.type.title.action" = "Action";
+"block.type.description.action" = "Actionable content.";
+"block.type.title.link" = "Link";
+"block.type.description.link" = "Standard hyperlink.";
+"block.type.title.list" = "List";
+"block.type.description.list" = "List of content or options. Can use Data.";
+"block.type.title.media" = "Media";
+"block.type.description.media" = "Images, gifs, or video files.";
+"block.type.title.property" = "Property Type";
+"block.type.description.property" = "Single content divider.";
+"block.type.title.displayProperty" = "Display Property";
+"block.type.description.displayProperty" = "Get an objects property and displays it.";
+"block.type.title.changeProperty" = "Change Property";
+"block.type.description.changeProperty" = "Changes an objects property.";
+"block.type.title.toggle" = "Toggle";
+"block.type.description.toggle" = "Dual option picker. Toggles binary properties.";
